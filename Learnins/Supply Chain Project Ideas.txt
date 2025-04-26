@@ -1,0 +1,25 @@
+Supply Chain Project Ideas
+
+
+1. Inventory Analysis and Management (3) 
+2. Logistics and Operation Management (2)
+3. Demand Forecasting (3)
+4. Vendor Management (2)
+5. Customer Satisfaction / Customer Feedback Analysis (3)
+6. RFM Analysis (2)
+
+
+Datasets 
+1. Delhivery Logistics: https://www.kaggle.com/datasets/devarajv88/delhivery-logistics-dataset?select=delhivery.csv (Logistics) 
+2. DataCo: https://www.kaggle.com/datasets/aagmandeep/datacosupplychain-dataset-and-eda-with-report 
+3. https://www.kaggle.com/datasets/dadsrichboyvlogs/supply-chain-management-asia
+4. Retail Transactional Dataset: https://www.kaggle.com/datasets/bhavikjikadara/retail-transactional-dataset
+5. https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study
+6. https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv 
+7. https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data (Forecasting)
+8. https://www.kaggle.com/c/rossmann-store-sales (Forecasting)
+9. https://archive.ics.uci.edu/dataset/352/online+retail (RFM)
+10. https://www.kaggle.com/datasets/ironmongert/logistics-analytics-task?select=dissent_records.xlsx
+
+
+
